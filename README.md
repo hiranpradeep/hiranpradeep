@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiranpradeep
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python, django
+- 🌱 I’m currently learning Python, Django,C#,DotNet
 - 📫 Contact me at: hiranpradeep22@gmail.com
 
 <!---
